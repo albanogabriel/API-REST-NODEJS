@@ -1,0 +1,16 @@
+# RF
+
+- [x] User can create new Transaction;
+- [x] User can get a summary of your own account(resumo);
+- [x] User can be list all the transactions that have already been made;
+- [x] User can view a unique transaction(information about a unique information)
+
+# RN
+
+- [x] Transaction can be type credit(increase of total value) or type debit(descrease of total value);
+- [ ] It Should be possible identify users between the requests(identificar usuários entre as requisições)
+- [ ] User can only view your own transactions they have created
+
+# RFN
+
+-
